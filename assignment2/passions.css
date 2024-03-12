@@ -1,0 +1,3583 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 150.35rem;
+}.group-37077-EDi {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.group-37077-EDi .group-37076-Sag {
+  margin: 0rem 0rem 47.6rem 4.6rem;
+  width: 145.75rem;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37076-Sag .gradient-FwS {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 160.538%;
+  background-position: 0 -42.4949rem;
+  background-image: url('../assets/gradient-bg.png');
+}
+.group-37077-EDi .group-37076-Sag .gradient-FwS .gradient-FwS-bg {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:b3ee8454bd96f03860a56dc80c718abb886975ab');
+}
+.group-37077-EDi .group-37076-Sag .home-contact-shop-blog-trending-5Qg {
+  width: 111.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 15rem;
+  top: 2.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 0.955;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Hubballi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37076-Sag .step-into-style-with-tN8 {
+  width: 50rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 31.3rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 5.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  text-transform: uppercase;
+  color: #333333;
+  font-family: Averia Serif Libre, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37076-Sag .icon-menu-9Yx {
+  width: 5.1rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 133.8rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37076-Sag .rectangle-55-TpY {
+  width: 44.7rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 49.1rem;
+  background-color: rgba(10, 10, 10, 0.5799999833);
+  border-radius: 2rem;
+}
+.group-37077-EDi .group-37076-Sag .rectangle-57-BEk {
+  width: 44.7rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 57.8rem;
+  background-color: rgba(96, 92, 92, 0.3600000143);
+  border-radius: 2rem;
+}
+.group-37077-EDi .group-37076-Sag .rectangle-56-J4U {
+  width: 44.7rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 66.5rem;
+  background-color: rgba(96, 92, 92, 0.3600000143);
+  border-radius: 2rem;
+}
+.group-37077-EDi .group-37076-Sag .rectangle-58-pHi {
+  width: 44.7rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 75.2rem;
+  background-color: rgba(96, 92, 92, 0.3600000143);
+  border-radius: 2rem;
+}
+.group-37077-EDi .group-37076-Sag .rectangle-59-jQg {
+  width: 44.7rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 83.9rem;
+  background-color: rgba(96, 92, 92, 0.3600000143);
+  border-radius: 2rem;
+}
+.group-37077-EDi .group-37076-Sag .rectangle-60-GQc {
+  width: 44.7rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 92.6rem;
+  background-color: rgba(96, 92, 92, 0.3600000143);
+  border-radius: 2rem;
+}
+.group-37077-EDi .group-37076-Sag .category-bhn {
+  width: 13rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 50.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.38;
+  text-transform: capitalize;
+  color: #f3e9e9;
+  font-family: Hurricane, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37076-Sag .line-2-UWg {
+  width: 44.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 75.2rem;
+  background-color: #ffffff;
+}
+.group-37077-EDi .group-37076-Sag .line-2-oJ4 {
+  width: 44.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 66.5rem;
+  background-color: #ffffff;
+}
+.group-37077-EDi .group-37076-Sag .line-4-7Ze {
+  width: 44.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 92.6rem;
+  background-color: #ffffff;
+}
+.group-37077-EDi .group-37076-Sag .line-3-T7i {
+  width: 44.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 83.9rem;
+  background-color: #ffffff;
+}
+.group-37077-EDi .group-37076-Sag .stiletto-heels-nvg {
+  width: 18.1rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 58.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.38;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Hurricane, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37076-Sag .kitten-heels-6Ag {
+  width: 17rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 68.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.38;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Hurricane, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37076-Sag .block-heels-Pfa {
+  width: 16.7rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 76.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.38;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Hurricane, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37076-Sag .wedge-heels-52c {
+  width: 17.6rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 84.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.38;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Hurricane, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37076-Sag .platform-heels-aEG {
+  width: 21.1rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 93.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.38;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Hurricane, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37076-Sag .vector-GMz {
+  width: 5.5rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 32.3rem;
+  top: 53.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37076-Sag .designed-bybansi-makani-CFe {
+  width: 50.3rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 95.45rem;
+  top: 97rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Centaur, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37076-Sag .passions-TxG {
+  width: 46.4rem;
+  height: 16.1rem;
+  position: absolute;
+  left: 83.9rem;
+  top: 62.6rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 12.8rem;
+  font-weight: 400;
+  line-height: 1.3250000477;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Babylonica, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+.group-37077-EDi .group-37076-Sag .passions-TxG .passions-TxG-sub-0 {
+  font-size: 12.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37076-Sag .passions-TxG .passions-TxG-sub-1 {
+  font-size: 12.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37076-Sag .icon-reload-nma {
+  width: 3.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .auto-group-u3km-Vvt {
+  margin: 0rem 3.35rem 35.9rem 3rem;
+  width: calc(100% - 6.35rem);
+  height: 109.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .passions-CqJ {
+  width: 17.4rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 115.05rem;
+  top: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3250000477;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Babylonica, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .passions-CqJ .passions-CqJ-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .auto-group-u3km-Vvt .passions-CqJ .passions-CqJ-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN {
+  width: 144rem;
+  height: 109rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .desktop-2-dZE {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .gradient-xrQ {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  left: 0;
+  top: 0.2rem;
+  background-size: 100% 195.153%;
+  background-position: 0.2616rem -88.5202rem;
+  background-image: url('../assets/gradient.png');
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .off-4Pe {
+  width: 41.2rem;
+  height: 15.4rem;
+  position: absolute;
+  left: 1.1809rem;
+  top: 14.118rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 12.8rem;
+  font-weight: 900;
+  line-height: 1.1975;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Big Shoulders Inline Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .till-9-to-14-feb-only-jVn {
+  width: 18.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 31.4157rem;
+  top: 15.8805rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.1975;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Big Shoulders Stencil Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .step-into-elegance-where-your-every-stride-ignites-passion-2Dz {
+  width: 110.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 26.75rem;
+  top: 25.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.1525;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Belleza, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU {
+  width: 59.5rem;
+  height: 46.1063rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 35.7rem;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-nt7r-2NQ {
+  width: 41.1819rem;
+  height: 7.5552rem;
+  position: absolute;
+  left: 0.8059rem;
+  top: 38.551rem;
+  display: flex;
+  align-items: flex-end;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-nt7r-2NQ .group-37051-jXi {
+  margin-right: 1.2835rem;
+  width: 19.8034rem;
+  height: 100%;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-nt7r-2NQ .group-37051-jXi .rectangle-2-E76 {
+  width: 18.535rem;
+  height: 7.5552rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 1.4rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-nt7r-2NQ .group-37051-jXi .sign-up-KuE {
+  width: 14.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 2.6017rem;
+  top: 1.9929rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Brawler, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-nt7r-2NQ .arrow-1-opQ {
+  margin: 0rem 0.537rem 2.131rem 0rem;
+  width: 3.3578rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-nt7r-2NQ .dont-have-an-account-ve8 {
+  margin-bottom: 0.2278rem;
+  max-width: 16.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #fbf5f5;
+  font-family: BIZ UDPGothic, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-w9p3-Rqn {
+  width: 59.5rem;
+  height: 23.6343rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-w9p3-Rqn .auto-group-upnt-Zwz {
+  box-sizing: border-box;
+  padding: 3.824rem 5.507rem 4.212rem 5.507rem;
+  width: 59.5rem;
+  height: 11.236rem;
+  position: absolute;
+  left: 0;
+  top: 12.3983rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: BIZ UDPMincho, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-w9p3-Rqn .auto-group-pjro-orL {
+  width: 20.1467rem;
+  height: 10.0736rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Brawler, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-w9p3-Rqn .iconly-sharp-bulk-profile-Gjv {
+  width: 3.3578rem;
+  height: 4.8431rem;
+  position: absolute;
+  left: 1.3431rem;
+  top: 15.6916rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-8z59-zR2 {
+  width: 59.5rem;
+  height: 11.236rem;
+  position: absolute;
+  left: 0;
+  top: 23.6343rem;
+  border-top: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-8z59-zR2 .rectangle-52-XQx {
+  width: 59.5rem;
+  height: 11.236rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-8z59-zR2 .password--TJc {
+  width: 16.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 6.2632rem;
+  top: 3.9216rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2189999819;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Brawler, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-8z59-zR2 .password--TJc .password--TJc-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: BIZ UDPMincho, 'Source Sans Pro';
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .auto-group-8z59-zR2 .password--TJc .password--TJc-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Brawler, 'Source Sans Pro';
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .group-37052-VNU .iconly-sharp-bulk-show-wd6 {
+  width: 3.3578rem;
+  height: 4.6494rem;
+  position: absolute;
+  left: 1.3816rem;
+  top: 27rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .auto-group-u3km-Vvt .group-37067-iBN .frame-5-sFr {
+  width: 144rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 0;
+  top: 102.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37068-bhe {
+  margin: 0rem 6.35rem 17.5rem 0rem;
+  box-sizing: border-box;
+  padding-top: 2.7rem;
+  width: 144rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .desktop-3-d8Y {
+  width: 37.422rem;
+  height: 43.172rem;
+  position: absolute;
+  left: 65.728rem;
+  top: 19.928rem;
+  overflow: hidden;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .desktop-3-d8Y .best-seller-wf2 {
+  margin-bottom: 32.772rem;
+  width: 100%;
+  max-width: 5.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: capitalize;
+  color: #4b174c;
+  font-family: Island Moments, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .desktop-3-d8Y .best-seller-eJY {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Island Moments, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa {
+  box-sizing: border-box;
+  padding: 4rem 0rem 4.264rem 2.85rem;
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-XVW.png');
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-f4jy-QS8 {
+  width: 127.65rem;
+  height: 6.5423rem;
+  position: absolute;
+  left: 4.35rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-f4jy-QS8 .group-37054-jjJ {
+  margin-right: 19.45rem;
+  box-sizing: border-box;
+  padding: 0.113rem 3.614rem 0.03rem 2.971rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-f4jy-QS8 .group-37054-jjJ .searchaltfill-r3E {
+  margin: 0rem 1.881rem 0rem 0rem;
+  width: 2.7725rem;
+  height: 2.2084rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-f4jy-QS8 .group-37054-jjJ .search-product--xMA {
+  margin-right: 47.4116rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.7525;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Asar, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-f4jy-QS8 .group-37054-jjJ .imgloadboxfill-fFa {
+  margin: 0.331rem 3.152rem 0rem 0rem;
+  width: 2.3104rem;
+  height: 2.2084rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-f4jy-QS8 .group-37054-jjJ .micfill-yXA {
+  margin-bottom: 0.1967rem;
+  width: 1.2872rem;
+  height: 2.1635rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-f4jy-QS8 .passions-gwN {
+  margin-top: 0.1577rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3250000477;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Babylonica, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-f4jy-QS8 .passions-gwN .passions-gwN-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-f4jy-QS8 .passions-gwN .passions-gwN-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .bellfill-Dpp {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 138.75rem;
+  top: 8.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .stiletto-heels--MRE {
+  width: 17.9rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.85rem;
+  top: 10.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-vgmm-SxU {
+  width: 120.9rem;
+  height: 23rem;
+  position: absolute;
+  left: 7.75rem;
+  top: 17.1rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-vgmm-SxU .fantasy-butterfly-detail-wrap-around-strap-stiletto-heels-10-silver-1-mjr {
+  margin-right: 18rem;
+  width: 14.8rem;
+  height: 23rem;
+  position: relative;
+  background-size: 100% 101.038%;
+  background-position: 0.2108rem -0.3189rem;
+  background-image: url('../assets/fantasy-butterfly-detail-wrap-around-strap-stiletto-heels-10-silver-1.png');
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-vgmm-SxU .tie-back-faux-pearl-decor-point-toe-ankle-strap-stiletto-pumps-1-dXA {
+  margin-right: 18.1rem;
+  width: 19.3rem;
+  height: 23rem;
+  position: relative;
+  background-size: 99.161% 100.16%;
+  background-position: 0.4488rem 0.0988rem;
+  background-image: url('../assets/tie-back-faux-pearl-decor-point-toe-ankle-strap-stiletto-pumps-1.png');
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-vgmm-SxU .womens-heels-pumps-strappy-heels-party-outdoor-office-solid-colored-summer-stiletto-heel-pumps-pointed-toe-elegant-sexy-casual-walking-pu-synthetics-lace-up-black-2024-2899-1-JNQ {
+  margin-right: 18rem;
+  width: 17.6rem;
+  height: 23rem;
+  position: relative;
+  background-size: 154.824% 100%;
+  background-position: -3.3543rem 0.1911rem;
+  background-image: url('../assets/womens-heels-pumps-strappy-heels-party-outdoor-office-solid-colored-summer-stiletto-heel-pumps-pointed-toe-elegant-sexy-casual-walking-pu-synthetics-lace-up-black-2024-2899-1.png');
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-vgmm-SxU .d36e14-a8ee-4796-87de-68626b0fb663-1-74x {
+  width: 15.1rem;
+  height: 23rem;
+  position: relative;
+  background-size: 135.006% 100%;
+  background-position: -4.0872rem -0.1006rem;
+  background-image: url('../assets/d36e14-a8ee-4796-87de-68626b0fb663-1.png');
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-all7-nB6 {
+  width: 131.95rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 0;
+  top: 42.35rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-all7-nB6 .white-flowers-3-inch-stiletto-heels-with-diamond-furnish-3000-rs-36off-WMz {
+  margin: 0.6rem 4.25rem 0rem 0rem;
+  max-width: 31.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-all7-nB6 .london-rag-white-satin-high-heeled-anklet-sandal-4599-rs-12off-a6x {
+  margin: 0.2rem 9.75rem 0rem 0rem;
+  max-width: 29.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-all7-nB6 .women-black-ankle-strap-stiletto-heeled-sandals-165800-rs-3mE {
+  margin: 0rem 9.55rem 0.2rem 0rem;
+  max-width: 26.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-all7-nB6 .rag-co-embellished-black-stilettos-heels-1899-rs-wLp {
+  margin-bottom: 0.6rem;
+  max-width: 21.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN {
+  width: 131.75rem;
+  height: 44.5711rem;
+  position: absolute;
+  left: 1.75rem;
+  top: 49.5645rem;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .kitten1-1-YrQ {
+  width: 17.6rem;
+  height: 23rem;
+  position: relative;
+  left: 4.6rem;
+  top: 11.1355rem;
+  background-size: 154.217% 100%;
+  background-position: -4.5767rem 0.2456rem;
+  background-image: url('../assets/kitten1-1.png');
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-3YG {
+  width: 14.8833rem;
+  height: 3.025rem;
+  position: absolute;
+  left: 5.9167rem;
+  top: 0.0105rem;
+  display: flex;
+  align-items: flex-start;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-3YG .iconly-regular-bold-buy-mjA {
+  margin-right: 9.0167rem;
+  width: 3.1667rem;
+  height: 2.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-3YG .bookmark-uaU {
+  margin-top: 0.025rem;
+  width: 2.7rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37057-SKW {
+  width: 14.4333rem;
+  height: 2.75rem;
+  position: absolute;
+  left: 113.3167rem;
+  top: 41.8105rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37057-SKW .iconly-regular-bold-buy-AmJ {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37057-SKW .bookmark-Voa {
+  margin-top: 0.2208rem;
+  width: 1.8rem;
+  height: 2.1708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .iconly-regular-bold-buy-2oW {
+  width: 3.1667rem;
+  height: 2.6445rem;
+  position: absolute;
+  left: 41.1167rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .bookmark-ZoS {
+  width: 1.8rem;
+  height: 2.0875rem;
+  position: absolute;
+  left: 53.75rem;
+  top: 0.3846rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha {
+  width: 120.9333rem;
+  height: 44.5711rem;
+  position: absolute;
+  left: 4.9167rem;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-xerj-19e {
+  box-sizing: border-box;
+  padding: 41.9rem 21.667rem 0.027rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-xerj-19e .iconly-regular-bold-buy-LSp {
+  margin-right: 9.5667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-xerj-19e .bookmark-UZ2 {
+  margin-bottom: 0.2608rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or {
+  margin-right: 18.0667rem;
+  width: 52.2333rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or .auto-group-kfqk-Yon {
+  margin: 0rem 1.9rem 39.282rem 35.9rem;
+  width: calc(100% - 37.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or .auto-group-kfqk-Yon .iconly-regular-bold-buy-HFa {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or .auto-group-kfqk-Yon .bookmark-DQ8 {
+  margin-top: 0.2123rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or .group-37055-9Hn {
+  width: 100%;
+  height: 2.6445rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or .group-37055-9Hn .iconly-regular-bold-buy-VsS {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or .group-37055-9Hn .bookmark-SGt {
+  margin: 0.212rem 23.367rem 0rem 0rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or .group-37055-9Hn .group-37055-Mue {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or .group-37055-9Hn .group-37055-Mue .iconly-regular-bold-buy-7dv {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .auto-group-zx3d-1or .group-37055-9Hn .group-37055-Mue .bookmark-qK2 {
+  margin-top: 0.2123rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .iconly-regular-bold-buy-mTa {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .group-37055-6Ha .bookmark-WRA {
+  margin-top: 0.3846rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .kitten-heels--3vt {
+  width: 16rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.05rem;
+  top: 5.8855rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.29;
+  letter-spacing: 0.02rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .kitten3-1-vzg {
+  width: 20.6rem;
+  height: 23rem;
+  position: relative;
+  left: 38.8rem;
+  top: 11.1355rem;
+  background-size: 150.147% 100%;
+  background-position: -6.321rem 0.1228rem;
+  background-image: url('../assets/kitten3-1.png');
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .fashion-women-sandals-mesh-lace-sexy-kitten-heels-5-cm-9-cm-women-pumps-313-5-champagne-9cm-40-1-CSQ {
+  width: 20.6rem;
+  height: 23.5rem;
+  position: relative;
+  left: 76rem;
+  top: 10.6355rem;
+  background-size: 108.544% 105.075%;
+  background-position: -0.9893rem -0.7245rem;
+  background-image: url('../assets/fashion-women-sandals-mesh-lace-sexy-kitten-heels-5-cm-9-cm-women-pumps-313-5-champagne-9cm-40-1.png');
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .kitty-black-suede-wide-fit-low-heels-1233-rs-10off-Ett {
+  width: 30.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 70.25rem;
+  top: 36.4355rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .kitten-heels-cream-pearl-desdesign-948-rs68off-hXa {
+  width: 28.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 36.2355rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .kitten-heel-lemon-pepper-999-rs-77off-Bhe {
+  width: 23.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 36.95rem;
+  top: 36.8355rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .wide-fit-leather-kitten-heel-1008-rs-77off-sKa {
+  width: 21.9rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 109.85rem;
+  top: 35.7355rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37068-bhe .auto-group-6c3z-WZi .group-37061-kMa .group-37060-fDe .auto-group-sydy-SoN .image-5-9H6 {
+  width: 19rem;
+  height: 22.9rem;
+  position: relative;
+  left: 111.5rem;
+  top: 10.2355rem;
+  background-size: 109.909% 100%;
+  background-position: -2.1988rem 0.1341rem;
+  background-image: url('../assets/image-5.png');
+}
+.group-37077-EDi .group-37068-bhe .frame-4-Px8 {
+  width: 144rem;
+  height: 6.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L {
+  margin: 0rem 6.35rem 17.5rem 0rem;
+  width: 144rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn {
+  box-sizing: border-box;
+  padding: 4rem 0.2rem 4.264rem 4.55rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-HXa.png');
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ltjo-y9e {
+  margin: 0rem 8.95rem 1.958rem 2.65rem;
+  width: calc(100% - 11.6rem);
+  height: 6.5423rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ltjo-y9e .group-37054-5Cg {
+  margin-right: 19.45rem;
+  box-sizing: border-box;
+  padding: 0.113rem 3.614rem 0.03rem 2.971rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ltjo-y9e .group-37054-5Cg .searchaltfill-BmW {
+  margin: 0rem 1.881rem 0rem 0rem;
+  width: 2.7725rem;
+  height: 2.2084rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ltjo-y9e .group-37054-5Cg .search-product--W36 {
+  margin-right: 47.4116rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.7525;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Asar, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ltjo-y9e .group-37054-5Cg .imgloadboxfill-cbv {
+  margin: 0.331rem 3.152rem 0rem 0rem;
+  width: 2.3104rem;
+  height: 2.2084rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ltjo-y9e .group-37054-5Cg .micfill-jRe {
+  margin-bottom: 0.1966rem;
+  width: 1.2872rem;
+  height: 2.1635rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ltjo-y9e .passions-T6k {
+  margin-top: 0.1577rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3250000477;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Babylonica, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ltjo-y9e .passions-T6k .passions-T6k-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ltjo-y9e .passions-T6k .passions-T6k-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-mvmh-EQL {
+  margin: 0rem 0rem 1.078rem 0.85rem;
+  width: calc(100% - 0.85rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-mvmh-EQL .block-heels--ktU {
+  margin: 1.85rem 119.9rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-mvmh-EQL .bellfill-g1S {
+  width: 2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ub3d-p7e {
+  margin: 0rem 12rem 2.15rem 4.45rem;
+  width: calc(100% - 16.45rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ub3d-p7e .auto-group-k5ub-jEc {
+  margin: 0rem 14.272rem 1.5rem 0rem;
+  width: 19.528rem;
+  height: 25.772rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ub3d-p7e .auto-group-k5ub-jEc .perfect-bridal-skyla-dyeable-ivory-satin-and-lace-block-heel-wedding-court-shoes-1-rq2 {
+  width: 16.4rem;
+  height: 23rem;
+  position: relative;
+  left: 0;
+  top: 2.772rem;
+  background-size: 105.592% 105.515%;
+  background-position: -0.7182rem 0.0912rem;
+  background-image: url('../assets/perfect-bridal-skyla-dyeable-ivory-satin-and-lace-block-heel-wedding-court-shoes-1.png');
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ub3d-p7e .auto-group-k5ub-jEc .best-seller-XRN {
+  width: 5.7rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 13.828rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: capitalize;
+  color: #4b174c;
+  font-family: Island Moments, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ub3d-p7e .block1-1-pfN {
+  margin: 0rem 15.1rem 1.5rem 0rem;
+  width: 20.6rem;
+  height: 23rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ub3d-p7e .screenshot-2024-02-17-025009-1-9Br {
+  margin: 0rem 11.9rem 0.6rem 0rem;
+  width: 20.6rem;
+  height: 23.9rem;
+  position: relative;
+  background-size: 319.645% 158.59%;
+  background-position: -16.2438rem -11.0552rem;
+  background-image: url('../assets/screenshot-2024-02-17-025009-1.png');
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-ub3d-p7e .image-6-1jr {
+  width: 20.8rem;
+  height: 24rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-aq15-MYp {
+  margin: 0rem 7.6rem 1.114rem 3.9rem;
+  width: calc(100% - 11.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-aq15-MYp .white-square-block-heels-2300-rs-20off-sGG {
+  margin: 0rem 15.5rem 0.1rem 0rem;
+  max-width: 20.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-aq15-MYp .black-bold-block-heels-6222-rs-12off-xHi {
+  margin: 0rem 12.35rem 0.5rem 0rem;
+  max-width: 17.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-aq15-MYp .inka-metallic-115mm-block-heeled-sandals-3479940-off-STn {
+  margin: 0.5rem 7.3rem 0rem 0rem;
+  max-width: 28.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-aq15-MYp .jimmy-choo-block-heeled-sandal-489919off-vNx {
+  margin-top: 0.5rem;
+  max-width: 25.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma {
+  margin-right: 6.8rem;
+  width: 132.45rem;
+  height: 44.5711rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-8E8 {
+  width: 14.4333rem;
+  height: 2.75rem;
+  position: absolute;
+  left: 5.9667rem;
+  top: 0.0105rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-8E8 .iconly-regular-bold-buy-quE {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-8E8 .bookmark-MMn {
+  margin-top: 0.2208rem;
+  width: 1.8rem;
+  height: 2.1708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37057-gur {
+  width: 14.4333rem;
+  height: 2.75rem;
+  position: absolute;
+  left: 113.3667rem;
+  top: 41.8105rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37057-gur .iconly-regular-bold-buy-RMe {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37057-gur .bookmark-xcU {
+  margin-top: 0.2208rem;
+  width: 1.8rem;
+  height: 2.1708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .iconly-regular-bold-buy-5SC {
+  width: 3.1667rem;
+  height: 2.6445rem;
+  position: absolute;
+  left: 41.1667rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .bookmark-od6 {
+  width: 1.8rem;
+  height: 2.0875rem;
+  position: absolute;
+  left: 53.8rem;
+  top: 0.3846rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E {
+  width: 120.9333rem;
+  height: 44.5711rem;
+  position: absolute;
+  left: 4.9667rem;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-kjgo-FV6 {
+  box-sizing: border-box;
+  padding: 41.9rem 21.667rem 0.027rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-kjgo-FV6 .iconly-regular-bold-buy-myE {
+  margin-right: 9.5667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-kjgo-FV6 .bookmark-JCU {
+  margin-bottom: 0.2608rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S {
+  margin-right: 18.0667rem;
+  width: 52.2333rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S .auto-group-hqpd-BGG {
+  margin: 0rem 1.9rem 39.282rem 35.9rem;
+  width: calc(100% - 37.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S .auto-group-hqpd-BGG .iconly-regular-bold-buy-W3e {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S .auto-group-hqpd-BGG .bookmark-dtx {
+  margin-top: 0.2123rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S .group-37055-n1A {
+  width: 100%;
+  height: 2.6445rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S .group-37055-n1A .iconly-regular-bold-buy-852 {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S .group-37055-n1A .bookmark-4jN {
+  margin: 0.212rem 23.367rem 0rem 0rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S .group-37055-n1A .group-37055-oBA {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S .group-37055-n1A .group-37055-oBA .iconly-regular-bold-buy-A1i {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .auto-group-lhcb-e1S .group-37055-n1A .group-37055-oBA .bookmark-Hc8 {
+  margin-top: 0.2123rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .iconly-regular-bold-buy-DVn {
+  margin-right: 9.4667rem;
+  width: 3.1667rem;
+  height: 2.6445rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .group-37055-L7E .bookmark-MM6 {
+  margin-top: 0.3846rem;
+  width: 1.8rem;
+  height: 2.0875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .wedge-heels--tbv {
+  width: 15.8rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 5.8855rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.29;
+  letter-spacing: 0.02rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .leisure-women-luxury-wedges-1493-rs-10off-NGC {
+  width: 25rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 73.05rem;
+  top: 36.4355rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .glitter-leather-wedges-with-crystal-2599-rs68off-SWx {
+  width: 28.6rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 36.2355rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .v-luxury-open-toe-high-heel-wedge-2999-rs-77off-L6Y {
+  width: 29.2rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 34.1rem;
+  top: 36.8355rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .designer-golden-wedges-heel-1422-rs-77off-DRE {
+  width: 23.2rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 109.25rem;
+  top: 35.7355rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Volkhov, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .screenshot-2024-02-17-025702-1-6E8 {
+  width: 18.6rem;
+  height: 23.9rem;
+  position: relative;
+  left: 3.65rem;
+  top: 10.2355rem;
+  background-size: 118.179% 100%;
+  background-position: -2.3349rem 0.5798rem;
+  background-image: url('../assets/screenshot-2024-02-17-025702-1.png');
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .wedge-1-1-xn8 {
+  width: 22.3rem;
+  height: 23.9rem;
+  position: relative;
+  left: 36.65rem;
+  top: 10.2355rem;
+  background-size: 107.982% 100%;
+  background-position: -0.933rem 0.3585rem;
+  background-image: url('../assets/wedge-1-1.png');
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .wedge-2-1-rcc {
+  width: 18.7rem;
+  height: 23.9rem;
+  position: relative;
+  left: 74.85rem;
+  top: 10.2355rem;
+  background-size: 144.068% 107.368%;
+  background-position: -3.9171rem 0.3676rem;
+  background-image: url('../assets/wedge-2-1.png');
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .image-7-MJU {
+  width: 20.1rem;
+  height: 23.9rem;
+  position: relative;
+  left: 109.45rem;
+  top: 10.2355rem;
+  background-size: 95.025% 120.001%;
+  background-position: 0.4907rem -3.522rem;
+  background-image: url('../assets/image-7.png');
+}
+.group-37077-EDi .group-37069-Y4L .mask-group-3mn .auto-group-fn1d-cma .best-seller-3SC {
+  width: 5.7rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 55.478rem;
+  top: 7.4635rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: capitalize;
+  color: #4b174c;
+  font-family: Island Moments, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37069-Y4L .frame-3-Jsv {
+  width: 144rem;
+  height: 6.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37070-eB6 {
+  margin: 0rem 6.35rem 14rem 0rem;
+  width: 144rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr {
+  width: 145.3rem;
+  height: 102.4rem;
+  position: absolute;
+  left: -1.3rem;
+  top: 0;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .item-9-MUp {
+  width: 144rem;
+  height: 102.8285rem;
+  position: absolute;
+  left: 1.6rem;
+  top: -0.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .about-us-UpL {
+  width: 25rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 60.15rem;
+  top: 12.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .at-passions-we-believe-that-every-step-tells-a-story-with-a-dedication-to-timeless-elegance-and-unmatched-craftsmanship-we-create-heels-that-empower-women-to-stride-confidently-towards-their-dreams-our-passion-for-style-and-quality-drives-us-to-curate-collections-that-inspire-individuality-and-elevate-every-occasion-welcome-to-a-world-where-luxury-meets-comfort-and-each-pair-of-heels-is-crafted-to-celebrate-your-unique-journey-moS {
+  width: 127.9rem;
+  height: 19.3rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 24.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1475;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Bellefair, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .our-team-gJ8 {
+  width: 24.2rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 60.6rem;
+  top: 52rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .rectangle-61-n6G {
+  width: 29.2rem;
+  height: 34.4rem;
+  position: absolute;
+  left: 59rem;
+  top: 62.3rem;
+  background-color: #d9d9d9;
+  border-radius: 0.2rem;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .rectangle-62-hj2 {
+  width: 29.2rem;
+  height: 34.4rem;
+  position: absolute;
+  left: 107.5rem;
+  top: 62.3rem;
+  background-color: #d9d9d9;
+  border-radius: 0.2rem;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .rectangle-63-qKS {
+  width: 29.2rem;
+  height: 34.4rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 62.3rem;
+  background-color: #d9d9d9;
+  border-radius: 0.2rem;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .cult-gaia-ceo-yAk {
+  width: 18.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 15.7rem;
+  top: 92.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .kanika-designer-Gfe {
+  width: 20.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 63.5rem;
+  top: 92.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .item-9-SMr .aldo-marketing-NCt {
+  width: 18.3rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 112.9rem;
+  top: 92.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .auto-group-kdwo-57J {
+  width: 22.15rem;
+  height: 92.7175rem;
+  position: absolute;
+  left: 111.5rem;
+  top: 7.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .auto-group-kdwo-57J .passions-zEG {
+  margin: 0rem 0rem 51.2rem 4.75rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3250000477;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Babylonica, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .auto-group-kdwo-57J .passions-zEG .passions-zEG-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .auto-group-kdwo-57J .passions-zEG .passions-zEG-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .auto-group-kdwo-57J .image-10-5Q8 {
+  margin: 0rem 3.456rem 6.7rem 0rem;
+  width: 18.6942rem;
+  height: 26rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .auto-group-kdwo-57J .auto-group-ezfm-PQp {
+  margin: 0rem 8.834rem 0rem 5.4rem;
+  width: calc(100% - 14.2335rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .auto-group-kdwo-57J .auto-group-ezfm-PQp .social-icons-X1E {
+  margin-right: 2.6818rem;
+  width: 2.6182rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .auto-group-kdwo-57J .auto-group-ezfm-PQp .social-icons-rpC {
+  margin-top: 0.1rem;
+  width: 2.6165rem;
+  height: 2.6175rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .social-icons-nhr {
+  width: 2.6182rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 97.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .social-icons-irQ {
+  width: 2.6182rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 67.9rem;
+  top: 97.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .social-icons-TZ6 {
+  width: 2.6165rem;
+  height: 2.6175rem;
+  position: absolute;
+  left: 25rem;
+  top: 97.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .desktop-5-hv4 .social-icons-z3E {
+  width: 2.6165rem;
+  height: 2.6175rem;
+  position: absolute;
+  left: 73.2rem;
+  top: 97.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .image-8-uvt {
+  width: 20.8rem;
+  height: 26rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 64.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.group-37077-EDi .group-37070-eB6 .auto-group-jadd-NMz .image-9-3GQ {
+  width: 20.8rem;
+  height: 26.3805rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 64.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.group-37077-EDi .group-37070-eB6 .frame-4-yA4 {
+  width: 144rem;
+  height: 6.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv {
+  margin: 0rem 3.35rem 20.6rem 1.8rem;
+  width: calc(100% - 5.15rem);
+  height: 111rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/desktop-5.png');
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 .passions-m5v {
+  width: 17.4rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 117.25rem;
+  top: 9.5rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3250000477;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Babylonica, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 .passions-m5v .passions-m5v-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 .passions-m5v .passions-m5v-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 .image-17-HyN {
+  width: 14.6rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 53.7rem;
+  top: 86.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 .image-18-Ds2 {
+  width: 11.9rem;
+  height: 11.715rem;
+  position: absolute;
+  left: 73rem;
+  top: 86.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 .image-21-kc4 {
+  width: 11.9rem;
+  height: 11.9rem;
+  position: relative;
+  left: 120.9rem;
+  top: 86.4rem;
+  background-size: 100% 100%;
+  background-position: -0.171rem 0;
+  background-image: url('../assets/image-21.png');
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 .image-20-TWU {
+  width: 11.9rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 104.3rem;
+  top: 86.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 .image-19-zFW {
+  width: 11.9rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 88.8rem;
+  top: 86.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37071-KDv .auto-group-zkym-2u2 .platform2-1-vex {
+  width: 31.5rem;
+  height: 33.2rem;
+  position: relative;
+  left: 11.8rem;
+  top: 24.2rem;
+  background-size: 100% 103.96%;
+  background-position: -0rem -0.3481rem;
+  background-image: url('../assets/platform2-1.png');
+  border-radius: 1.5rem;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ {
+  box-sizing: border-box;
+  padding: 18.3rem 5.395rem 7.7rem 7.8rem;
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 1rem;
+  top: 2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-VEc.png');
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  height: 64.9rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-jqsp-mJC {
+  margin-right: 3.6rem;
+  width: 37.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-jqsp-mJC .rectangle-66-J3E {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  height: 40.9rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(133, 76, 99, 0.5199999809);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-jqsp-mJC .auto-group-zdt3-BMv {
+  box-sizing: border-box;
+  padding: 2.55rem 2.65rem 1.1rem 2.05rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(133, 76, 99, 0.2199999988);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-jqsp-mJC .auto-group-zdt3-BMv .velvet-touched-hot-red-double-platform-chunky-high-heels-with-buckles-h5N {
+  margin-bottom: 2.05rem;
+  max-width: 32.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Vidaloka, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-jqsp-mJC .auto-group-zdt3-BMv .rs-30-off-hot-deal-vyi {
+  margin-right: 2.2rem;
+  max-width: 21.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Vidaloka, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA {
+  margin: 2.75rem 0rem 4.9rem 0rem;
+  width: 89.7047rem;
+  height: calc(100% - 7.65rem);
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .velvet-touched-hot-red-double-karin-luna-dropship-2024-spring-summer-pointed-toe-platform-chunky-high-heels-with-buckles-fashion-show-pumps-sexy-woman-wedding-shoes-cVA {
+  margin-bottom: 4.85rem;
+  width: 100%;
+  max-width: 80rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: rgba(144, 29, 146, 0.5500000119);
+  font-family: Vidaloka, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .line-7-Y1S {
+  margin: 0rem 0rem 2.5rem 3.2rem;
+  width: 86.5047rem;
+  height: 0.1rem;
+  background-color: #b567ae;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-bhuq-FgY {
+  margin: 0rem 0rem 3.95rem 1rem;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-bhuq-FgY .size--m96 {
+  margin: 0rem 4.6rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-bhuq-FgY .auto-group-fv51-4dz {
+  margin-right: 4.8rem;
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(133, 76, 99, 0.2199999988);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-bhuq-FgY .auto-group-2cvk-Hme {
+  margin-right: 4.8rem;
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(133, 76, 99, 0.2199999988);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-bhuq-FgY .auto-group-rmyk-iMA {
+  margin-right: 4.8rem;
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(133, 76, 99, 0.2199999988);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-bhuq-FgY .auto-group-jicf-koe {
+  margin-right: 4.8rem;
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(133, 76, 99, 0.2199999988);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-bhuq-FgY .auto-group-ntvw-bJU {
+  margin-right: 4.8rem;
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(133, 76, 99, 0.2199999988);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-bhuq-FgY .auto-group-pcoq-pwv {
+  margin-right: 4.8rem;
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(133, 76, 99, 0.2199999988);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-bhuq-FgY .auto-group-mb6f-sQQ {
+  width: 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(133, 76, 99, 0.2199999988);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa {
+  margin: 0rem 0rem 5.75rem 0.8rem;
+  height: 13.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv {
+  margin-right: 0.65rem;
+  width: 38.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-1rek-ksW {
+  margin: 0rem 0rem 2.75rem 0.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-1rek-ksW .inr-gWG {
+  margin: 0.1rem 1.4rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-1rek-ksW .item--Bhv {
+  margin-right: 4.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-1rek-ksW .item-4855-6000-6pt {
+  margin-top: 0.95rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-1rek-ksW .item-4855-6000-6pt .item-4855-6000-6pt-sub-0 {
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-1rek-ksW .item-4855-6000-6pt .item-4855-6000-6pt-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  text-decoration-line: line-through;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-xncf-TYx {
+  width: 100%;
+  height: 6.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-xncf-TYx .quantity--zon {
+  margin: 0rem 2.7rem 1.65rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-xncf-TYx .auto-group-868f-WXE {
+  margin-bottom: 0.05rem;
+  width: 4.3rem;
+  height: calc(100% - 0.05rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-xncf-TYx .auto-group-868f-WXE .rectangle-75-eNY {
+  width: 4.3rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 0;
+  top: 1.25rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-xncf-TYx .auto-group-868f-WXE .item--yQp {
+  width: 2.8rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-xncf-TYx .auto-group-cscx-5Cx {
+  margin-bottom: 0.05rem;
+  width: 13.3rem;
+  height: 4.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.7200000286);
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-xncf-TYx .auto-group-8pdz-wFA {
+  width: 4.3rem;
+  height: 4.95rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-xncf-TYx .auto-group-8pdz-wFA .rectangle-76-suW {
+  width: 4.3rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .auto-group-kmom-1uv .auto-group-xncf-TYx .auto-group-8pdz-wFA .item--ccC {
+  width: 2rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .maximum-1000-pairs-7J4 {
+  margin: 0rem 6.85rem 0.2rem 0rem;
+  max-width: 9.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.5600000024);
+  font-family: Volkhov, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-mn63-Vwa .off-QY4 {
+  margin-bottom: 1.8rem;
+  max-width: 10.5rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-tyhv-vWQ {
+  margin-bottom: 1.75rem;
+  width: 63.65rem;
+  height: 3.95rem;
+  position: relative;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-tyhv-vWQ .estimated-delivery-time-is-3-working-days-from-when-order-place-in-all-over-india-out-side-of-india-may-take-2-more-days-EX6 {
+  width: 61.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 2.25rem;
+  top: 0.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .auto-group-tyhv-vWQ .vector-cnY {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-2swj-37J .auto-group-dfex-KFA .line-8-xLc {
+  margin-left: 3.2rem;
+  width: 86.5047rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-m1kj-gnQ {
+  margin-right: 92.1047rem;
+  width: calc(100% - 92.1047rem);
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-m1kj-gnQ .auto-group-k9rw-RV6 {
+  margin-right: 1.7rem;
+  width: 18.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(254, 254, 254, 0.4499999881);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .item-9-azQ .auto-group-m1kj-gnQ .auto-group-xif9-3WU {
+  width: 18.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Vidaloka, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(254, 254, 254, 0.4499999881);
+  border-radius: 1.3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37071-KDv .frame-4-Tq6 {
+  width: 144rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 104.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37072-NhA {
+  margin: 0rem 3.35rem 32.9rem 3rem;
+  width: calc(100% - 6.35rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg.png');
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .our-customer-review-jg8 {
+  width: 48.2rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 10.6rem;
+  display: flex;
+  font-size: 4.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Times New Roman, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .dont-take-our-word-for-it-trust-our-customers-pxU {
+  width: 75.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 17.45rem;
+  display: flex;
+  font-size: 3.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: rgba(17, 17, 17, 0.4600000083);
+  font-family: Times New Roman, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .rectangle-64-WKW {
+  width: 46.9rem;
+  height: 36.2rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 34.7rem;
+  background-color: rgba(217, 217, 217, 0.5199999809);
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .rectangle-65-pqz {
+  width: 46.9rem;
+  height: 36.2rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 34.7rem;
+  background-color: rgba(217, 217, 217, 0.5199999809);
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .nilay-deniz-xSQ {
+  width: 18.2rem;
+  height: 5rem;
+  position: absolute;
+  left: 107.6rem;
+  top: 38.15rem;
+  display: flex;
+  font-size: 3.9rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Times New Roman, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .victoria-altoz-TPA {
+  width: 21.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 38.15rem;
+  display: flex;
+  font-size: 3.9rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Times New Roman, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .impressed-by-the-meticulous-design-and-articulation-of-the-previous-heels-a-standout-addition-to-any-collection-Zwz {
+  width: 27.6rem;
+  height: 19.7rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 47.65rem;
+  display: flex;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Times New Roman, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .thrilled-with-my-purchase-the-previous-heels-boasts-impeccable-paintwork-and-fantastic-poseability-a-definite-favorite-in-my-collection-Qxc {
+  width: 26.6rem;
+  height: 26.2rem;
+  position: absolute;
+  left: 102.5rem;
+  top: 44.8rem;
+  display: flex;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Times New Roman, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .item-4-4XN {
+  width: 1.9rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 19.3rem;
+  top: 53.25rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.6275;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Timmana, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .starfill-9oi {
+  width: 2.2914rem;
+  height: 2.208rem;
+  position: absolute;
+  left: 87.2543rem;
+  top: 54.0029rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .item-45-tFW {
+  width: 4.4rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 90.2rem;
+  top: 52.45rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.6275;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Timmana, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .delivery-all-over-the-world-Pi4 {
+  width: 24.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 7.25rem;
+  top: 88.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Katibeh, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .free-delivery-high-quality-product-5at {
+  width: 22.9rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 42.3rem;
+  top: 88rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Katibeh, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .easy-refund-replace-policy-mCp {
+  width: 24.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 78.3rem;
+  top: 88rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Katibeh, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .item-9-Dhn .support-service-4Bv {
+  width: 14.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 119.55rem;
+  top: 88rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Katibeh, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-vxy3-vzp {
+  width: 126.15rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 7.5rem;
+  display: flex;
+  align-items: flex-end;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-vxy3-vzp .social-icons-efv {
+  margin-right: 103.95rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-vxy3-vzp .passions-aT6 {
+  margin-bottom: 2.5rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3250000477;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Babylonica, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-vxy3-vzp .passions-aT6 .passions-aT6-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-vxy3-vzp .passions-aT6 .passions-aT6-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .bellfill-GDS {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 137rem;
+  top: 17.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-arak-zv8 {
+  width: 84.7rem;
+  height: 14.718rem;
+  position: absolute;
+  left: 15.6rem;
+  top: 36.5rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-arak-zv8 .image-11-Jfv {
+  margin-right: 57.1rem;
+  width: 13.4rem;
+  height: 14.718rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-arak-zv8 .image-12-qA4 {
+  margin-bottom: 0.018rem;
+  width: 14.2rem;
+  height: 14.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .starfill-9wS {
+  width: 3.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 15.6rem;
+  top: 53.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-wpaf-Uyi {
+  width: 112.5rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 16.7rem;
+  top: 79.9rem;
+  display: flex;
+  align-items: center;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-wpaf-Uyi .auto-group-ouhh-om6 {
+  box-sizing: border-box;
+  padding-right: 33.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-wpaf-Uyi .auto-group-ouhh-om6 .image-13-MXi {
+  margin-right: 28.5rem;
+  width: 5.2rem;
+  height: 5.0323rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-wpaf-Uyi .auto-group-ouhh-om6 .image-14-HRN {
+  width: 5.2rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-wpaf-Uyi .image-15-ELc {
+  margin-right: 29.9rem;
+  width: 5.2rem;
+  height: 5.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .auto-group-wpaf-Uyi .image-16-mrL {
+  width: 5.2rem;
+  height: 5.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .line-5-KN4 {
+  width: 118.7004rem;
+  height: 0;
+  position: absolute;
+  left: 15.1997rem;
+  top: 25.6007rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37072-NhA .desktop-7-67N .line-6-rct {
+  width: 118.7004rem;
+  height: 0;
+  position: absolute;
+  left: 17.1rem;
+  top: 77rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37072-NhA .frame-4-Q8c {
+  width: 144rem;
+  height: 6.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE {
+  margin: 0rem 2.55rem 0rem 2.8rem;
+  width: calc(100% - 5.35rem);
+  height: 108.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp {
+  box-sizing: border-box;
+  padding: 8rem 3.3rem 8.8rem 5.4rem;
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-7BA.png');
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-lvod-jq6 {
+  margin: 0rem 39rem 18.4rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 8.5rem 0.6rem 8.5rem;
+  width: 91.7rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.7525;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Asar, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-5cnt-AQc {
+  margin: 0rem 1.1rem 19.1rem 0rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-5cnt-AQc .auto-group-zhuh-VBz {
+  margin-right: 8.2rem;
+  width: 38.9rem;
+  height: 33.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-5cnt-AQc .auto-group-zhuh-VBz .passionsconsumerserv685gmailcom-2Bv {
+  width: 35.9rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 1.95rem;
+  top: 14.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.7525;
+  text-transform: capitalize;
+  color: #111111;
+  font-family: Asar, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-5cnt-AQc .auto-group-zhuh-VBz .rectangle-48-uWc {
+  width: 38.9rem;
+  height: 33.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #e0dada;
+  border-radius: 8rem;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-5cnt-AQc .auto-group-3tdy-dhW {
+  margin-right: 9.3rem;
+  width: 38.9rem;
+  height: 33.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.29;
+  text-transform: uppercase;
+  color: #c56e93;
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #e0dada;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-5cnt-AQc .auto-group-d2bh-K4Y {
+  margin-bottom: 0.8rem;
+  width: 38.9rem;
+  height: 33.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.29;
+  text-transform: uppercase;
+  color: #c56e93;
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #e0dada;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-jx83-PaC {
+  margin-left: 7.75rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-jx83-PaC .visit-us-on-Jx4 {
+  margin: 0rem 10.55rem 1.5rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.5099999905);
+  font-family: Volkhov, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-jx83-PaC .social-icons-1Lg {
+  margin: 0rem 4.703rem 0.701rem 0rem;
+  width: 4.7972rem;
+  height: 4.7991rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-jx83-PaC .social-icons-KcG {
+  margin: 0rem 6.5rem 0.761rem 0rem;
+  width: 4.4rem;
+  height: 3.9772rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-jx83-PaC .social-icons-r6Q {
+  margin: 0rem 4.5rem 0.7rem 0rem;
+  width: 4.8001rem;
+  height: 4.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-jx83-PaC .social-icons-NaY {
+  margin: 0.9rem 4.5rem 0rem 0rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-jx83-PaC .social-icons-HxQ {
+  margin: 0.104rem 4.3rem 0rem 0rem;
+  width: 4.8rem;
+  height: 4.804rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-jx83-PaC .social-icons-czg {
+  margin: 0rem 34.096rem 0.7rem 0rem;
+  width: 4.7039rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .item-9-GAp .auto-group-jx83-PaC .back-to-x2x {
+  margin-top: 0.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.7525;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Asar, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv {
+  width: 144rem;
+  height: 103.2rem;
+  position: absolute;
+  left: 1rem;
+  top: 5.4rem;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .passions-v8C {
+  width: 17.4rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 116.25rem;
+  top: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3250000477;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Babylonica, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .passions-v8C .passions-v8C-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .passions-v8C .passions-v8C-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Uncial Antiqua, 'Source Sans Pro';
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .micfill-dB2 {
+  width: 2.6rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 94.7rem;
+  top: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .imgloadboxfill-ZKa {
+  width: 2.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 89.9rem;
+  top: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .searchaltfill-tck {
+  width: 4.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .homefill-Rsa {
+  width: 6.1rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 86.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .messagealtfill-x6p {
+  width: 11.4rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 35.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .bellfill-gHi {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 136.9rem;
+  top: 10.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .userfilladd-cSG {
+  width: 8.1rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 67.9rem;
+  top: 35.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .vector-kHa {
+  width: 8.3rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 116rem;
+  top: 35.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-37077-EDi .group-37075-wuE .group-37073-1mv .frame-5-gh2 {
+  width: 144rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 0;
+  top: 96.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
